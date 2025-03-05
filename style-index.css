@@ -1,0 +1,25 @@
+main{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #000000;
+    min-height: 100vh;
+    /* background-image: url('path');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    width: 33.33%;
+    height: 600px;
+    background-color: #F4E2FF;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
